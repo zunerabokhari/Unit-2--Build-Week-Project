@@ -3,4 +3,4 @@
 
  I used a dataset that contained about 53,000 observations on 10 different diamond features. The features are carat, cut, color, clarity, depth, table, price, x (length), y (width), z (height).
  
- Using I built Linear, Ridge, XGB, and Random Forest Regression models to better predict the price of a diamond.
+ I built Linear, Ridge, XGB, and Random Forest Regression models to better predict the price of a diamond.
